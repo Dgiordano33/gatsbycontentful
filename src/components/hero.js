@@ -1,6 +1,7 @@
 import React from 'react'
 import Img from 'gatsby-image'
 
+import styles from './hero.module.css'
 import '@contentful/forma-36-react-components/dist/styles.css';
 
 export default ({ data }) => (
